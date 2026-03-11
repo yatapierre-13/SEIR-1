@@ -1,1 +1,9 @@
 
+Instructions:
+
+Follow the instructor's guidance for how to make a homepage with a VM.
+
+at the end of the lesson, SSH into your VM and curl it
+
+    curl localhost
+
