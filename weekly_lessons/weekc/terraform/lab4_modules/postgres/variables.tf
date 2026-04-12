@@ -32,3 +32,12 @@ variable "db_password" {
   type = string
   sensitive = true
 }
+
+variable "han_user" {
+  type = string
+}
+
+variable "han_password" {
+  type      = string
+  sensitive = true
+}
